@@ -68,7 +68,8 @@ Spring + JSP 기반의 회사 공식 사이트를
 ## 🧪 Personal & Study Projects
 
 ### 🛒 온라인 서점 쇼핑몰 (NHN Academy 팀 프로젝트)
-👉 https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall  
+👉 https://github.com/nhnacademy-be8-plzbuybook
+
 상품 조회/주문/관리자 기능 등 포함된 쇼핑몰 프로젝트입니다.
 
 ### 📁 기타 학습 레포
