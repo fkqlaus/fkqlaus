@@ -4,42 +4,39 @@
 
 # 최광혁
 
-### 데이터의 흐름을 이해하고, 선택의 이유를 설명합니다.
+### 복잡한 데이터와 업무 흐름을 누구나 알기 쉽게 정리하는 걸 좋아하는 개발자입니다.
 
-Java와 Spring으로 API와 데이터 처리 기능을 개발하는 백엔드 개발자입니다.
 
-<a href="mailto:fkqlaus@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-2563EB?style=flat-square" /></a>
-<a href="https://fkqlaus.tistory.com/"><img alt="Tech Blog" src="https://img.shields.io/badge/Tech%20Blog-263449?style=flat-square" /></a>
-<a href="https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall"><img alt="Featured Project" src="https://img.shields.io/badge/Featured%20Project-263449?style=flat-square&logo=github&logoColor=white" /></a>
+
+<a href="mailto:fkqlaus@naver.com">
+  <img alt="Email: fkqlaus@naver.com" src="https://img.shields.io/badge/Email-fkqlaus%40naver.com-2563EB?style=flat-square&labelColor=263449" />
+</a>
+<!-- <a href="https://fkqlaus.tistory.com/"><img alt="Tech Blog" src="https://img.shields.io/badge/Tech%20Blog-263449?style=flat-square" /></a> -->
+
 
 <br />
 
-[About](#about) &nbsp; / &nbsp; [Project](#project) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Stack](#stack)
 
 </div>
 
-<br />
 
-| BACKEND | DATA | SEARCH |
-| :--- | :--- | :--- |
-| **API · 외부 시스템 연계** | **도메인 · 데이터 모델링** | **Elasticsearch 기반 검색** |
-| 공공 업무 시스템 개발 | 도서·판매 정보 분리 설계 | 다중 필드 검색과 가중치 적용 |
 
 <br />
 
 <a id="about"></a>
 ## 01 &nbsp; About
 
-**공공 업무 시스템의 백엔드를 개발하고 있습니다.**
-API, 데이터 처리, 외부 시스템 연계를 구현하며 데이터가 저장되고 조회되는 흐름을 살핍니다.
+**공공·산업단지 업무 시스템에서 백엔드와 화면을 설계하고 개발합니다.**
+업무 요구사항을 데이터 구조와 기능으로 구체화하고, API 개발부터 화면 구현, 외부 시스템 연계, 배포와 유지보수까지 담당하고 있습니다.
 
-NHN Academy 팀 프로젝트에서는 **도서 도메인과 검색 기능**을 담당했습니다.
-데이터 모델링, 조회 구조, 데이터 정합성을 중심으로 학습하고 기술 선택의 이유를 기록합니다.
+여러 데이터베이스와 외부 시스템이 연결된 환경에서 **데이터가 들어오고, 처리되고, 사용자에게 전달되는 전체 흐름**을 고려합니다.
+기능 구현뿐 아니라 운영 중 발생하는 문제의 원인을 찾고, 이후에도 안정적이며 이해하고 수정하기 쉬운 구조를 고민합니다.
+
 
 <br />
 
 <a id="project"></a>
-## 02 &nbsp; Selected Project
+## 02 &nbsp; Project
 
 ### plzbuybook
 **온라인 도서 쇼핑몰** &nbsp; · &nbsp; NHN Academy &nbsp; · &nbsp; 7인 팀
@@ -100,35 +97,86 @@ NHN Academy 팀 프로젝트에서는 **도서 도메인과 검색 기능**을 �
 <a id="experience"></a>
 ## 03 &nbsp; Experience
 
-**(주)스페이스빌더스 · 개발팀** | 2025.05 ~ 재직 중
+**(주)대호이엔지 · 개발팀** | 2025.05 ~ 재직 중
 
 | 기간 | 프로젝트 | 소개 |
 | --- | --- | --- |
-| 2025.05 ~ 2025.06 | 회사 공식 홈페이지 | 기업·사업 소개, 게시판과 문의 기능을 제공하는 홈페이지 |
+| 2025.05 ~ 2025.06 | 회사 공식 홈페이지 | 기업·사업 소개, 게시판과 문의 기능 제공 홈페이지 |
 | 2025.06 ~ 2025.07 | 스마트 쉘터 콘텐츠 관리 시스템 | 버스 스마트쉼터의 홍보 이미지·영상을 수집·편성·재생하는 시스템 |
 | 2025.07 ~ 2025.10 | 스마트통합관제센터 | 산업단지의 시설·안전·교통 정보를 지도와 관제 화면에서 관리하는 플랫폼 |
-| 2025.11 ~ 2026.03 | 군청 재난안전 통합 플랫폼 | 위험성평가, 근로자 건강상담과 산업재해 업무를 지원하는 시스템 |
-| 2026.07 ~ 2026.09 | 공간정보 플랫폼 고도화 | 지도 기반 공간정보 조회와 사용자 레이어·시설물 데이터 관리를 지원하는 플랫폼 |
+| 2025.11 ~ 2026.03 | 군청 재난안전 통합 플랫폼 | 위험성평가와 산업재해, 시민재해 등 재난안전 업무 지원 시스템 |
+| 2026.07 ~ 2026.09 | 공간정보 플랫폼 고도화 | 지도 기반 공간정보 조회와 사용자 레이어·시설물 데이터 관리 지원 플랫폼 |
 
 
 <br />
 
 <a id="stack"></a>
+
 ## 04 &nbsp; Tech Stack
 
-**Backend**
+**Language**
 
-<img alt="Java" src="https://img.shields.io/badge/Java-2563EB?style=flat-square" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-263449?style=flat-square&logo=springboot&logoColor=white" /> <img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-263449?style=flat-square" /> <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring%20Data%20JPA-263449?style=flat-square" /> <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-263449?style=flat-square" />
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
+</p>
 
-**Data & Search**
+**Spring**
 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-263449?style=flat-square&logo=mysql&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-263449?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-263449?style=flat-square&logo=elasticsearch&logoColor=white" /> <img alt="Logstash" src="https://img.shields.io/badge/Logstash-263449?style=flat-square&logo=logstash&logoColor=white" /> <img alt="Kibana" src="https://img.shields.io/badge/Kibana-263449?style=flat-square&logo=kibana&logoColor=white" />
+<p>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Spring WebSocket" src="https://img.shields.io/badge/Spring%20WebSocket-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-303030?style=flat-square" />
+</p>
+
+**Database & Cache**
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**Search & Analytics**
+
+<p>
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img alt="Logstash" src="https://img.shields.io/badge/Logstash-F3BD19?style=flat-square&logo=logstash&logoColor=black" />
+  <img alt="Kibana" src="https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white" />
+</p>
+
+**Infra & Deployment**
+
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+</p>
+
+**GIS & Web**
+
+<p>
+  <img alt="GeoServer" src="https://img.shields.io/badge/GeoServer-4382A0?style=flat-square" />
+  <img alt="OpenLayers" src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" />
+  <img alt="VWorld" src="https://img.shields.io/badge/VWorld-2563EB?style=flat-square" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" />
+</p>
 
 **Tools**
 
-<img alt="Git" src="https://img.shields.io/badge/Git-263449?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-263449?style=flat-square&logo=github&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-263449?style=flat-square&logo=linux&logoColor=white" />
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 <br />
+
+<br /><br />
 
 ## 05 &nbsp; Education & Certification
 
@@ -136,7 +184,7 @@ NHN Academy 팀 프로젝트에서는 **도서 도메인과 검색 기능**을 �
 | :--- | :--- |
 | 2025.03 | **SQLD** 취득 |
 | 2025.02 | **NHN Academy** Java 백엔드 개발자 과정 수료 |
-| 2025.02 | **조선대학교** 컴퓨터공학과 졸업 |
+| 2025.02 | **조선대학교** 컴퓨터공학과 학사 졸업 |
 
 <br />
 
@@ -144,8 +192,6 @@ NHN Academy 팀 프로젝트에서는 **도서 도메인과 검색 기능**을 �
 
 <div align="center">
 
-**구현에서 끝나지 않고, 이유를 기록합니다.**
 
-[기술 블로그](https://fkqlaus.tistory.com/) &nbsp; · &nbsp; [이메일](mailto:fkqlaus@naver.com) &nbsp; · &nbsp; [GitHub](https://github.com/fkqlaus)
 
 </div>
